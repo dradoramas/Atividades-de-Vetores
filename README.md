@@ -11,6 +11,7 @@ Atividade de Fixação para Vetores feitas no VisualG:
  - Média maior ou igual a 7: Aprovado. 
  - Média maior ou igual a 5: Recuperação. 
  - Média menor que 5: Reprovado. 
+ 
  Mostre as 4 notas informadas pelo usuário e informe a média. 
  
  4. Crie um programa que leia 5 números, armazenando em um vetor e informe qual é o menor número e o maior. 
