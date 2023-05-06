@@ -1,4 +1,4 @@
-# Vetores-e-Matrizes
+# Vetores
 
 Atividade de Fixação para Vetores feitas no VisualG:
 
