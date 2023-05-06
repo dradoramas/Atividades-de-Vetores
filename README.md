@@ -31,3 +31,5 @@ Atividade de Fixação para Vetores feitas no VisualG:
  9. Crie um algoritmo que leia 6 valores inteiros pares e, em seguida, mostre na tela os valores lidos na ordem inversa. 
  
  OBS: A 1° questão foi feita pelo professor!
+
+//Fim
